@@ -5,6 +5,8 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 #### Quiz: Quant basics
 - [Stock Prices](Quiz/m1_quant_basics/l2_stock_prices/stock_data.ipynb)
 - [Resample Data](Quiz/m1_quant_basics/l3_market_mechanics/resample_data.ipynb)
+- [Calculate Raw Returns](Quiz/m1_quant_basics/l5_stock_returns/calculate_returns.ipynb)
+
 
 ## Side Projects
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
