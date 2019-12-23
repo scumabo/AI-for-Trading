@@ -7,3 +7,5 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 
 ## Side Projects
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
+### [Dataframe indexing and selection](Side-projects/Dataframe-indexing-selecting.ipynb)
+### [Hypothesis testing](Side-projects/Hypthesis-testing.ipynb)
