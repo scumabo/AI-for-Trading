@@ -9,3 +9,6 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
 ### [Dataframe indexing and selection](Side-projects/Dataframe-indexing-selecting.ipynb)
 ### [Hypothesis testing](Side-projects/Hypthesis-testing.ipynb)
+
+### 2. Breakout Strategy.
+#### Quize: advanced quant: [test normality](Quiz/m2_advanced_quants\l3_regression\test_normality.ipynb)
