@@ -11,4 +11,4 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 ### [Hypothesis testing](Side-projects/Hypthesis-testing.ipynb)
 
 ### 2. Breakout Strategy.
-#### Quize: advanced quant: [test normality](Quiz/m2_advanced_quants\l3_regression\test_normality.ipynb)
+#### Quize: advanced quant: [test normality](Quiz/m2_advanced_quants/l3_regression/test_normality.ipynb)
