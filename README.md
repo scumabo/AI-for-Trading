@@ -8,7 +8,7 @@ Udacity nanodegree: [AI for Trading](https:\\www.udacity.com\course\ai-for-tradi
 ### 2. Breakout Strategy. [Project](Projects\2-Breakout-strategy\project_2_starter.pdf)
 #### Quize: advanced quant: [test normality](Quiz\m2_advanced_quants\l3_regression\test_normality.ipynb), [rolling windows](Quiz\m2_advanced_quants\l5_volatility\rolling_windows.ipynb), [pairs candidates](Quiz\m2_advanced_quants\l6_pairs_trading_and_mean_reversion\pairs_candidates.ipynb)
 
-### 3. Smart beta and portafolio optimization . [Project](Projects\3-Smart-Beta\project_3_starter.pdf)
+### 3. Smart beta and portafolio optimization. [Project](Projects\3-Smart-Beta\project_3_starter.pdf)
 #### Quize: funds_etfs_portfolio_optimization: [cumsum_and_cumprod](Quiz\m3_funds_etfs_portfolio_optimization\l1_stocks_indices_funds\cumsum_and_cumprod.ipynb), [cov](Quiz\m3_funds_etfs_portfolio_optimization\l3_portfolio_risk_and_return\m3l3_covariance.ipynb), [cvxpy_basis](Quiz\m3_funds_etfs_portfolio_optimization\l4_portfolio_optimization\m3l4_cvxpy_basic.ipynb), [cvxpy_adv](Quiz\m3_funds_etfs_portfolio_optimization\l4_portfolio_optimization\m3l4_cvxpy_advanced.ipynb)
 
 
