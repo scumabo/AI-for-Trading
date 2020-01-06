@@ -13,8 +13,8 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 
 
 ### 4. Alpha Research and Factor Modeling. [Project](Projects/)
-#### Quize: [zipline pipline](Quiz/m4_multifactor_models/Zipline-Pipeline/Zipline-Pipeline.pdf),
- 
+#### Quize: [zipline pipline](Quiz/m4_multifactor_models/Zipline-Pipeline/Zipline-Pipeline.pdf), [zipline execise](Quiz/m4_multifactor_models/m4l1/zipline_coding_exercises)
+
 ## Side Projects
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
 ### [Dataframe indexing and selection](Side-projects/Dataframe-indexing-selecting.ipynb)
