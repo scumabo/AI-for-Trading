@@ -12,6 +12,9 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 #### Quize: funds_etfs_portfolio_optimization: [cumsum_and_cumprod](Quiz/m3_funds_etfs_portfolio_optimization/l1_stocks_indices_funds/cumsum_and_cumprod.ipynb), [cov](Quiz/m3_funds_etfs_portfolio_optimization/l3_portfolio_risk_and_return/m3l3_covariance.ipynb), [cvxpy_basis](Quiz/m3_funds_etfs_portfolio_optimization/l4_portfolio_optimization/m3l4_cvxpy_basic.ipynb), [cvxpy_adv](Quiz/m3_funds_etfs_portfolio_optimization/l4_portfolio_optimization/m3l4_cvxpy_advanced.ipynb)
 
 
+### 4. Alpha Research and Factor Modeling. [Project](Projects/)
+#### Quize: [zipline pipline](Quiz/m4_multifactor_models/Zipline-Pipeline/Zipline-Pipeline.pdf),
+ 
 ## Side Projects
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
 ### [Dataframe indexing and selection](Side-projects/Dataframe-indexing-selecting.ipynb)
