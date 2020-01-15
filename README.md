@@ -13,7 +13,8 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 
 
 ### 4. Alpha Research and Factor Modeling. [Project](Projects/)
-#### Quiz: [zipline pipline](Quiz/m4_multifactor_models/Zipline-Pipeline/Zipline-Pipeline.pdf), [zipline execise](Quiz/m4_multifactor_models/m4l1/zipline_coding_exercises.pdf)
+#### Quiz: [zipline pipline](Quiz/m4_multifactor_models/Zipline-Pipeline/Zipline-Pipeline.pdf), [zipline execise](Quiz/m4_multifactor_models/m4l1/zipline_coding_exercises.pdf), [historical_variance](Quiz/m4_multifactor_models/m4l2/historical_variance.pdf), [factor_model_asset_return](Quiz/m4_multifactor_models/m4l2/factor_model_asset_return.pdf),[factor_model_portfolio_return](Quiz/m4_multifactor_models/m4l2/factor_model_portfolio_return.pdf), [covariance_matrix_assets](Quiz/m4_multifactor_models/m4l2/covariance_matrix_assets.pdf), [portfolio_variance](Quiz/m4_multifactor_models/m4l2/portfolio_variance.pdf), [pca_factor_model](Quiz/m4_multifactor_models/m4l2/pca_factor_model.pdf), 
+
 
 ## Side Projects
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
