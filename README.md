@@ -12,7 +12,7 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 #### Quiz: funds_etfs_portfolio_optimization: [cumsum_and_cumprod](Quiz/m3_funds_etfs_portfolio_optimization/l1_stocks_indices_funds/cumsum_and_cumprod.ipynb), [cov](Quiz/m3_funds_etfs_portfolio_optimization/l3_portfolio_risk_and_return/m3l3_covariance.ipynb), [cvxpy_basis](Quiz/m3_funds_etfs_portfolio_optimization/l4_portfolio_optimization/m3l4_cvxpy_basic.ipynb), [cvxpy_adv](Quiz/m3_funds_etfs_portfolio_optimization/l4_portfolio_optimization/m3l4_cvxpy_advanced.ipynb)
 
 
-### 4. Alpha Research and Factor Modeling. [Project](Projects/)
+### 4. Alpha Research and Factor Modeling. [Project](Projects/4-Multi-factor-Model/project_4_starter.pdf)
 #### Quiz: [zipline pipline](Quiz/m4_multifactor_models/Zipline-Pipeline/Zipline-Pipeline.pdf), [zipline execise](Quiz/m4_multifactor_models/m4l1/zipline_coding_exercises.pdf), [historical_variance](Quiz/m4_multifactor_models/m4l2/historical_variance.pdf), [factor_model_asset_return](Quiz/m4_multifactor_models/m4l2/factor_model_asset_return.pdf),[factor_model_portfolio_return](Quiz/m4_multifactor_models/m4l2/factor_model_portfolio_return.pdf), [covariance_matrix_assets](Quiz/m4_multifactor_models/m4l2/covariance_matrix_assets.pdf), [portfolio_variance](Quiz/m4_multifactor_models/m4l2/portfolio_variance.pdf), [pca_factor_model](Quiz/m4_multifactor_models/m4l2/pca_factor_model.pdf), 
 
 
