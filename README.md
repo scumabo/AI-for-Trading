@@ -19,7 +19,7 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 #### Quiz: [Text processing](Quiz/m5_financial_statements/text_processing.ipynb), [Regex for 10ks](Quiz/m5_financial_statements/applying_regexes_10ks.ipynb), [Bag of words](Quiz/m5_financial_statements/Bag_of_Word_Exercises.ipynb),
 
 ### 5. Sentiment Anlysis with Neural Networks. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
-#### Quiz: [Tensors in Pytorch](Quiz/m6/1.Tensors-in-PyTorch.html)
+#### Quiz: [Tensors in Pytorch](Quiz/m6/1.Tensors-in-PyTorch.pdf)
 
 ## Side Projects
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
