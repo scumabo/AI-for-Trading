@@ -23,3 +23,15 @@ Algorithm:
 
 ![](2020-03-22-23-34-34.png)
 
+We need a continuous and differentiable error function in order to use gradient decent.
+
+![](2020-03-23-09-41-29.png)
+
+We use activation function to let each unit returns continuous probabilities:
+
+![](2020-03-23-10-03-10.png)
+
+### Softmax
+Essentially, we want to convert the generated scores (z) to probability range in [0, 1]. Since the z could be negative, we need to apply exponential before normalization.
+
+![](2020-03-23-10-13-50.png)
