@@ -87,3 +87,5 @@ Batch vs Stochastic Gradient Descent
 [Tensors in Pytorch](../../Quiz/m6/1.Tensors-in-PyTorch.pdf)
 
 [Neutral Networks in Pytorch](../../Quiz/m6/2.Neural-Networks-in-PyTorch.pdf)
+
+[Training Neutral Networks](../../Quiz/m6/3.Train-NN.pdf)
