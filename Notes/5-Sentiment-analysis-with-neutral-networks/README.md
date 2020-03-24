@@ -82,3 +82,8 @@ Batch vs Stochastic Gradient Descent
 
 ![](2020-03-23-21-49-23.png)
 ![](2020-03-23-21-50-43.png)
+
+# Deep Learning with Pytorch
+[Tensors in Pytorch](../../Quiz/m6/1.Tensors-in-PyTorch.pdf)
+
+[Neutral Networks in Pytorch](../../Quiz/m6/2.Neural-Networks-in-PyTorch.pdf)
