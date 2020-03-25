@@ -89,3 +89,13 @@ Batch vs Stochastic Gradient Descent
 [Neutral Networks in Pytorch](../../Quiz/m6/2.Neural-Networks-in-PyTorch.pdf)
 
 [Training Neutral Networks](../../Quiz/m6/3.Train-NN.pdf)
+
+[Fashion MNIST](../../Quiz/m6/4.Fashion-MNIST.pdf)
+
+[Inference and Validation](../../Quiz/m6/5-Inference-and-validation.pdf)
+
+[Saving and loading models](../../Quiz/m6/6.Saving-and-loading-modules.pdf)
+
+[Load Image Data](../../Quiz/m6/7.Load-image-data.pdf)
+
+[Transfer Learning](../../Quiz/m6/8.Transfer-learning.pdf)
