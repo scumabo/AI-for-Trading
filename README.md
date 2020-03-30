@@ -21,6 +21,9 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 ### 5. Sentiment Anlysis with Neural Networks. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
 #### Quiz: [Tensors in Pytorch](Quiz/m6/1.Tensors-in-PyTorch.pdf), [NN in Pytorch](Quiz/m6/2.Neural-Networks-in-PyTorch.pdf)
 
+### 7. Combining Signals for Enhanced Alpha. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
+#### Quiz: [Decision Tree](Quiz/m7/DecisionTree.pdf), [graphviz](Quiz/m7/VisualizeTree.pdf), 
+
 ## Side Projects
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
 ### [Dataframe indexing and selection](Side-projects/Dataframe-indexing-selecting.ipynb)

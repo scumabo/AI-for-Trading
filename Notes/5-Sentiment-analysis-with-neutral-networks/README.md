@@ -99,3 +99,14 @@ Batch vs Stochastic Gradient Descent
 [Load Image Data](../../Quiz/m6/7.Load-image-data.pdf)
 
 [Transfer Learning](../../Quiz/m6/8.Transfer-learning.pdf)
+
+# Recurrent Neutral Networks
+![](2020-03-25-12-09-01.png)
+![](2020-03-25-12-15-22.png)
+![](2020-03-25-12-12-39.png)
+![](2020-03-25-12-20-07.png)
+![](2020-03-25-12-21-17.png)
+![](2020-03-25-12-22-30.png)
+![](2020-03-25-12-31-07.png)
+![](2020-03-25-13-23-21.png)
+![](2020-03-25-13-23-51.png)
