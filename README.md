@@ -16,7 +16,7 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 #### Quiz: [zipline pipline](Quiz/m4_multifactor_models/Zipline-Pipeline/Zipline-Pipeline.pdf), [zipline execise](Quiz/m4_multifactor_models/m4l1/zipline_coding_exercises.pdf), [historical_variance](Quiz/m4_multifactor_models/m4l2/historical_variance.pdf), [factor_model_asset_return](Quiz/m4_multifactor_models/m4l2/factor_model_asset_return.pdf),[factor_model_portfolio_return](Quiz/m4_multifactor_models/m4l2/factor_model_portfolio_return.pdf), [covariance_matrix_assets](Quiz/m4_multifactor_models/m4l2/covariance_matrix_assets.pdf), [portfolio_variance](Quiz/m4_multifactor_models/m4l2/portfolio_variance.pdf), [pca_factor_model](Quiz/m4_multifactor_models/m4l2/pca_factor_model.pdf), 
 
 ### 5. Intro to NLP. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
-#### Quiz: [Text processing](Quiz/m5_financial_statements/text_processing.ipynb), [Regex for 10ks](Quiz/m5_financial_statements/applying_regexes_10ks.ipynb), [Bag of words](Quiz/m5_financial_statements/Bag_of_Word_Exercises.ipynb),
+#### Quiz: [Text processing](Quiz/m5_financial_statements/text_processing.ipynb), [Process tweets](Quiz/m5_financial_statements/process_tweets.pdf), [Regex for 10ks](Quiz/m5_financial_statements/applying_regexes_10ks.ipynb), [Bag of words](Quiz/m5_financial_statements/Bag_of_Word_Exercises.ipynb),
 
 ### 6. Sentiment Anlysis with Neural Networks. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
 #### Quiz: [Tensors in Pytorch](Quiz/m6/1.Tensors-in-PyTorch.pdf), [NN in Pytorch](Quiz/m6/2.Neural-Networks-in-PyTorch.pdf)
