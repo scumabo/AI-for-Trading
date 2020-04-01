@@ -18,7 +18,7 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 ### 5. Intro to NLP. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
 #### Quiz: [Text processing](Quiz/m5_financial_statements/text_processing.ipynb), [Regex for 10ks](Quiz/m5_financial_statements/applying_regexes_10ks.ipynb), [Bag of words](Quiz/m5_financial_statements/Bag_of_Word_Exercises.ipynb),
 
-### 5. Sentiment Anlysis with Neural Networks. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
+### 6. Sentiment Anlysis with Neural Networks. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
 #### Quiz: [Tensors in Pytorch](Quiz/m6/1.Tensors-in-PyTorch.pdf), [NN in Pytorch](Quiz/m6/2.Neural-Networks-in-PyTorch.pdf)
 
 ### 7. Combining Signals for Enhanced Alpha. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
