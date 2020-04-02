@@ -20,13 +20,7 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 
 #### Regex: [Raw string](Quiz/m5_financial_statements/reg1-raw_strings.pdf), [find words](Quiz/m5_financial_statements/finding_words.ipynb), [Meta Characters](Quiz/m5_financial_statements/finding_metacharacters.ipynb), [Simple pattern](Quiz/m5_financial_statements/simple_patterns.ipynb), [Word boundaries](Quiz/m5_financial_statements/word_boundaries.ipynb), [Simple meta characters](Quiz/m5_financial_statements/simple_metacharacters.ipynb), [Character set](Quiz/m5_financial_statements/character_sets.ipynb), [Groups](Quiz/m5_financial_statements/finding_complicated_patterns.ipynb), [Substitutions](Quiz/m5_financial_statements/substitutions_and_flags.ipynb),
 
-#### BeautifulSoap: [Parse HTML](Quiz/m5_financial_statements/parsing_an_html_file.ipynb), [Navigating the parse tree](Quiz/m5_financial_statements/navigating_the_parse_tree.ipynb), [Search parse tree](Quiz/m5_financial_statements/searching_the_parse_tree.ipynb), [Search by class and regexes](Quiz/m5_financial_statements/searching_by_class_and_regexes.ipynb),
-[Meta Characters](Quiz/m5_financial_statements/finding_metacharacters.ipynb),
-[Meta Characters](Quiz/m5_financial_statements/finding_metacharacters.ipynb),
-[Meta Characters](Quiz/m5_financial_statements/finding_metacharacters.ipynb),
-[Meta Characters](Quiz/m5_financial_statements/finding_metacharacters.ipynb),
-[Meta Characters](Quiz/m5_financial_statements/finding_metacharacters.ipynb),
-[Meta Characters](Quiz/m5_financial_statements/finding_metacharacters.ipynb)
+#### BeautifulSoap: [Parse HTML](Quiz/m5_financial_statements/parsing_an_html_file.ipynb), [Navigating the parse tree](Quiz/m5_financial_statements/navigating_the_parse_tree.ipynb), [Search parse tree](Quiz/m5_financial_statements/searching_the_parse_tree.ipynb), [Search by class and regexes](Quiz/m5_financial_statements/searching_by_class_and_regexes.ipynb)
 
 ### 6. Sentiment Anlysis with Neural Networks. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
 #### Quiz: [Tensors in Pytorch](Quiz/m6/1.Tensors-in-PyTorch.pdf), [NN in Pytorch](Quiz/m6/2.Neural-Networks-in-PyTorch.pdf)
