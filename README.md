@@ -8,7 +8,7 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 ### 2. Breakout Strategy. [Project](Projects/2-Breakout-strategy/project_2_starter.pdf)
 #### Quiz: advanced quant: [test normality](Quiz/m2_advanced_quants/l3_regression/test_normality.ipynb), [rolling windows](Quiz/m2_advanced_quants/l5_volatility/rolling_windows.ipynb), [pairs candidates](Quiz/m2_advanced_quants/l6_pairs_trading_and_mean_reversion/pairs_candidates.ipynb)
 
-### 3. Smart beta and portafolio optimization. [Project](Projects/3-Smart-Beta/project_3_starter.pdf)
+### 3. Smart beta and portfolio optimization. [Project](Projects/3-Smart-Beta/project_3_starter.pdf)
 #### Quiz: funds_etfs_portfolio_optimization: [cumsum_and_cumprod](Quiz/m3_funds_etfs_portfolio_optimization/l1_stocks_indices_funds/cumsum_and_cumprod.ipynb), [cov](Quiz/m3_funds_etfs_portfolio_optimization/l3_portfolio_risk_and_return/m3l3_covariance.ipynb), [cvxpy_basis](Quiz/m3_funds_etfs_portfolio_optimization/l4_portfolio_optimization/m3l4_cvxpy_basic.ipynb), [cvxpy_adv](Quiz/m3_funds_etfs_portfolio_optimization/l4_portfolio_optimization/m3l4_cvxpy_advanced.ipynb)
 
 
@@ -16,6 +16,10 @@ Udacity nanodegree: [AI for Trading](https://www.udacity.com/course/ai-for-tradi
 #### Quiz: [zipline pipline](Quiz/m4_multifactor_models/Zipline-Pipeline/Zipline-Pipeline.pdf), [zipline execise](Quiz/m4_multifactor_models/m4l1/zipline_coding_exercises.pdf), [historical_variance](Quiz/m4_multifactor_models/m4l2/historical_variance.pdf), [factor_model_asset_return](Quiz/m4_multifactor_models/m4l2/factor_model_asset_return.pdf),[factor_model_portfolio_return](Quiz/m4_multifactor_models/m4l2/factor_model_portfolio_return.pdf), [covariance_matrix_assets](Quiz/m4_multifactor_models/m4l2/covariance_matrix_assets.pdf), [portfolio_variance](Quiz/m4_multifactor_models/m4l2/portfolio_variance.pdf), [pca_factor_model](Quiz/m4_multifactor_models/m4l2/pca_factor_model.pdf), 
 
 ### 5. Intro to NLP. [Project](Projects/5-Intro-NLP/10K-Regex.pdf)
+NLP pipeline consists of text processing, feature extraction, and modeling.
+
+* [Text processing](Quiz/m5_financial_statements/text_processing.ipynb): Learn text acquisition (plane text, tabular data, and online resources), simple data cleaning with python regex and BeautifulSoup, using nltk (natural language toolkit) for tokenization, stemming, and lemmatization.
+
 #### Quiz: [Text processing](Quiz/m5_financial_statements/text_processing.ipynb), [Process tweets](Quiz/m5_financial_statements/process_tweets.pdf), [Regex for 10ks](Quiz/m5_financial_statements/applying_regexes_10ks.ipynb), [Bag of words](Quiz/m5_financial_statements/Bag_of_Word_Exercises.ipynb),
 
 #### Regex: [Raw string](Quiz/m5_financial_statements/reg1-raw_strings.pdf), [find words](Quiz/m5_financial_statements/finding_words.ipynb), [Meta Characters](Quiz/m5_financial_statements/finding_metacharacters.ipynb), [Simple pattern](Quiz/m5_financial_statements/simple_patterns.ipynb), [Word boundaries](Quiz/m5_financial_statements/word_boundaries.ipynb), [Simple meta characters](Quiz/m5_financial_statements/simple_metacharacters.ipynb), [Character set](Quiz/m5_financial_statements/character_sets.ipynb), [Groups](Quiz/m5_financial_statements/finding_complicated_patterns.ipynb), [Substitutions](Quiz/m5_financial_statements/substitutions_and_flags.ipynb),

@@ -1,4 +1,7 @@
 # Text Processing
+
+
+
 ## Acquire Text Data  
 ![](2020-04-01-14-44-52.png)
 ![](2020-04-01-14-45-49.png)
