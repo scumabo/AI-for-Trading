@@ -20,7 +20,9 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
 * [Text processing](Quiz/m5_financial_statements/text_processing.ipynb): Learn text acquisition (plane text, tabular data, and online resources), simple data cleaning with python regex and BeautifulSoup, using nltk (natural language toolkit) for tokenization, stemming, and lemmatization.
 
-* Financial Statement: Learn how to apply [Regexes](Quiz/m5_financial_statements/regexes.ipynb) to [10Ks](Quiz/m5_financial_statements/applying_regexes_10ks.ipynb), how [BeautifulSoup](Quiz/m5_financial_statements/beautifulSoup.ipynb) can ease the parse of (perfectly formatted) html and xml downloaded using [request library]([BeautifulSoup](Quiz/m5_financial_statements/requests_library.ipynb))
+* Financial Statement: Learn how to apply [Regexes](Quiz/m5_financial_statements/regexes.ipynb) to [10Ks](Quiz/m5_financial_statements/applying_regexes_10ks.ipynb), how [BeautifulSoup](Quiz/m5_financial_statements/beautifulSoup.ipynb) can ease the parse of (perfectly formatted) html and xml downloaded using [request library](Quiz/m5_financial_statements/requests_library.ipynb).
+
+* Basic NLP Analysis: Learn quantitatively measure readability of documents using [readability indices](Quiz/m5_financial_statements/Readability_Exercises.ipynb), [how to convert document into vectors using bag of word and TF-IDF weighting, and metrics to compare similarities between documents](Quiz/m5_financial_statements/Bag_of_Word_Exercises.ipynb).
 
 ### 6. Sentiment Anlysis with Neural Networks. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
 #### Quiz: [Tensors in Pytorch](Quiz/m6/1.Tensors-in-PyTorch.pdf), [NN in Pytorch](Quiz/m6/2.Neural-Networks-in-PyTorch.pdf)
