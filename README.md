@@ -26,9 +26,27 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
 ### 6. Sentiment Anlysis with Neural Networks. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
 
+* [Neural Network Basics](Notes/6-Sentiment-analysis-with-neutral-networks/README.md): Learn maximum likelihood, cross entropy, logistic regression, gradient decent, regularization, and practical heuristics for training neural networks.
 
+* Deep Learning with PyTorch:
 
-#### Quiz: [Tensors in Pytorch](Quiz/m6/1.Tensors-in-PyTorch.pdf), [NN in Pytorch](Quiz/m6/2.Neural-Networks-in-PyTorch.pdf)
+    1. [Tensors in Pytorch](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%201%20-%20Tensors%20in%20PyTorch%20(Exercises).ipynb)
+
+    2. [Neutral Networks in Pytorch](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%202%20-%20Neural%20Networks%20in%20PyTorch%20(Exercises).ipynb)
+
+    3. [Training Neutral Networks](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%203%20-%20Training%20Neural%20Networks%20(Exercises).ipynb)
+
+    4. [Fashion MNIST](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%204%20-%20Fashion-MNIST%20(Exercises).ipynb)
+
+    5. [Inference and Validation](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%205%20-%20Inference%20and%20Validation%20(Exercises).ipynb)
+
+    6. [Saving and loading models](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%206%20-%20Saving%20and%20Loading%20Models.ipynb)
+
+    7. [Load Image Data](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%207%20-%20Loading%20Image%20Data%20(Exercises).ipynb)
+
+    8. [Transfer Learning](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%208%20-%20Transfer%20Learning%20(Exercises).ipynb)
+
+* Recurrence Neutral Networks: Learn to use RNN to predict simple [Time Series](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb) and train [Character-Level LSTM](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/char-rnn/Character_Level_RNN_Exercise.ipynb) to generate new text based on the text from the book. Learn Word2Vec algorithm using the [Skip-gram Architecture](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/word2vec-embeddings/Skip_Grams_Exercise.ipynb) and with [Negative Sampling](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/word2vec-embeddings/Negative_Sampling_Exercise.ipynb).
 
 ### 7. Combining Signals for Enhanced Alpha. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
 #### Quiz: [Decision Tree](Quiz/m7/DecisionTree.pdf), [graphviz](Quiz/m7/VisualizeTree.pdf), 
