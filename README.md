@@ -20,13 +20,7 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
 * [Text processing](Quiz/m5_financial_statements/text_processing.ipynb): Learn text acquisition (plane text, tabular data, and online resources), simple data cleaning with python regex and BeautifulSoup, using nltk (natural language toolkit) for tokenization, stemming, and lemmatization.
 
-* Financial Statement: Learn how to apply [Regexes](Quiz/m5_financial_statements/regexes.ipynb) to [10Ks](Quiz/m5_financial_statements/applying_regexes_10ks.ipynb), how [BeautifulSoup]() can ease the parse of html and xml.
-
-#### Quiz: [Text processing](Quiz/m5_financial_statements/text_processing.ipynb), [Process tweets](Quiz/m5_financial_statements/process_tweets.pdf), [Regex for 10ks](Quiz/m5_financial_statements/applying_regexes_10ks.ipynb), [Bag of words](Quiz/m5_financial_statements/Bag_of_Word_Exercises.ipynb),
-
-#### Regex: [Raw string](Quiz/m5_financial_statements/reg1-raw_strings.pdf), [find words](Quiz/m5_financial_statements/finding_words.ipynb), [Meta Characters](Quiz/m5_financial_statements/finding_metacharacters.ipynb), [Simple pattern](Quiz/m5_financial_statements/simple_patterns.ipynb), [Word boundaries](Quiz/m5_financial_statements/word_boundaries.ipynb), [Simple meta characters](Quiz/m5_financial_statements/simple_metacharacters.ipynb), [Character set](Quiz/m5_financial_statements/character_sets.ipynb), [Groups](Quiz/m5_financial_statements/finding_complicated_patterns.ipynb), [Substitutions](Quiz/m5_financial_statements/substitutions_and_flags.ipynb),
-
-#### BeautifulSoap: [Parse HTML](Quiz/m5_financial_statements/parsing_an_html_file.ipynb), [Navigating the parse tree](Quiz/m5_financial_statements/navigating_the_parse_tree.ipynb), [Search parse tree](Quiz/m5_financial_statements/searching_the_parse_tree.ipynb), [Search by class and regexes](Quiz/m5_financial_statements/searching_by_class_and_regexes.ipynb)
+* Financial Statement: Learn how to apply [Regexes](Quiz/m5_financial_statements/regexes.ipynb) to [10Ks](Quiz/m5_financial_statements/applying_regexes_10ks.ipynb), how [BeautifulSoup](Quiz/m5_financial_statements/beautifulSoup.ipynb) can ease the parse of (perfectly formatted) html and xml downloaded using [request library]([BeautifulSoup](Quiz/m5_financial_statements/requests_library.ipynb))
 
 ### 6. Sentiment Anlysis with Neural Networks. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
 #### Quiz: [Tensors in Pytorch](Quiz/m6/1.Tensors-in-PyTorch.pdf), [NN in Pytorch](Quiz/m6/2.Neural-Networks-in-PyTorch.pdf)
