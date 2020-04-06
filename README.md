@@ -46,7 +46,10 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
     8. [Transfer Learning](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%208%20-%20Transfer%20Learning%20(Exercises).ipynb)
 
-* Recurrence Neutral Networks: Learn to use RNN to predict simple [Time Series](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb) and train [Character-Level LSTM](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/char-rnn/Character_Level_RNN_Exercise.ipynb) to generate new text based on the text from the book. Learn Word2Vec algorithm using the [Skip-gram Architecture](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/word2vec-embeddings/Skip_Grams_Exercise.ipynb) and with [Negative Sampling](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/word2vec-embeddings/Negative_Sampling_Exercise.ipynb).
+* Recurrence Neutral Networks: 
+    1. Learn to use RNN to predict simple [Time Series](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb) and train [Character-Level LSTM](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/char-rnn/Character_Level_RNN_Exercise.ipynb) to generate new text based on the text from the book. 
+    2. Learn Word2Vec algorithm using the [Skip-gram Architecture](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/word2vec-embeddings/Skip_Grams_Exercise.ipynb) and with [Negative Sampling](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/word2vec-embeddings/Negative_Sampling_Exercise.ipynb).
+    3. [Sentiment Analysis RNN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn): Implement a recurrent neural network that can predict if the text of a moview review is positive or negative.
 
 ### 7. Combining Signals for Enhanced Alpha. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
 #### Quiz: [Decision Tree](Quiz/m7/DecisionTree.pdf), [graphviz](Quiz/m7/VisualizeTree.pdf), 
