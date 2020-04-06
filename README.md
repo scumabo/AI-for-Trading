@@ -25,6 +25,9 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 * Basic NLP Analysis: Learn quantitatively measure readability of documents using [readability indices](Quiz/m5_financial_statements/Readability_Exercises.ipynb), [how to convert document into vectors using bag of word and TF-IDF weighting, and metrics to compare similarities between documents](Quiz/m5_financial_statements/Bag_of_Word_Exercises.ipynb).
 
 ### 6. Sentiment Anlysis with Neural Networks. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
+
+
+
 #### Quiz: [Tensors in Pytorch](Quiz/m6/1.Tensors-in-PyTorch.pdf), [NN in Pytorch](Quiz/m6/2.Neural-Networks-in-PyTorch.pdf)
 
 ### 7. Combining Signals for Enhanced Alpha. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
