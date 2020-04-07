@@ -39,16 +39,8 @@ Let's play a game. Pick 4 balls from the basket with replacement. Win the game i
 
 ![](images/2020-03-30-13-01-27.png)
 
-# Random Forests (Ensembling)
+![](2020-04-07-12-34-49.png)
 
-![](images/2020-03-30-19-32-27.png)
+![](2020-04-07-12-35-28.png)
 
-![](images/2020-03-30-19-32-49.png)
-
-![](images/2020-03-30-19-35-52.png)
-
-![](images/2020-03-30-19-38-05.png)
-
-![](images/2020-03-30-19-39-35.png)
-
-![](images/2020-03-30-19-40-57.png)
+![](2020-04-07-12-35-46.png)
