@@ -46,4 +46,4 @@ Break data into K bucket. Train our model K times each time a a different bucket
 
 ## Learning Curves
 
-![](images/2020-03-30-15-10-21.png)
+![](2020-04-09-13-56-21.png)

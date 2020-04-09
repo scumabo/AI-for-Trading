@@ -55,6 +55,7 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
 * [Decision Tree](Notes/7-Combining-signals-for-enhanced-alpha/README.md): Learn how to branching decision tree using entropy and information gain. Implement decision tree using sklearn for [Titanic Survival Exploration](Quiz/m7/titanic_survival_exploration.ipynb) and [visualize the decision tree](Quiz/m7/VisualizeTree.pdf) using graphviz.
 
+* [Model Testing and Evaluation](Notes/7-Combining-signals-for-enhanced-alpha/Evaluation.md): Learn Type 1 and Type 2 errors, Precision vs. Recall, Cross validation for time series, and using learning curve to determine underfitting and overfitting.
 
 
 ## Side Projects
