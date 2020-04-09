@@ -57,6 +57,11 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
 * [Model Testing and Evaluation](Notes/7-Combining-signals-for-enhanced-alpha/Evaluation.md): Learn Type 1 and Type 2 errors, Precision vs. Recall, Cross validation for time series, and using learning curve to determine underfitting and overfitting.
 
+* [Random Forest](Notes/7-Combining-signals-for-enhanced-alpha/Random_forest.md): Learn the ensemble random forest method and [implement it in sklearn](Quiz/m7/spam_rf.ipynb).
+
+* [Feature Engineering](Quiz/m7/m7l3/feature_engineering.ipynb): Certain alphas perform better or worse depending on market conditions. Feature engineering creates additional inputs to give models more contexts about the current market condition so that the model can adjust its prediction accordingly.
+
+* [Overlapping Labels](Quiz/m7/m7l3/dependent_labels_solution.ipynb): Mitigate the problem when features are dependent on each other (non-IID).
 
 ## Side Projects
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
