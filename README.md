@@ -61,7 +61,7 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
 * [Feature Engineering](Quiz/m7/m7l3/feature_engineering.ipynb): Certain alphas perform better or worse depending on market conditions. Feature engineering creates additional inputs to give models more contexts about the current market condition so that the model can adjust its prediction accordingly.
 
-* [Overlapping Labels](Quiz/m7/m7l3/dependent_labels_solution.ipynb): Mitigate the problem when features are dependent on each other (non-IID).
+* [Overlapping Labels](Quiz/m7/dependent_labels_solution.ipynb): Mitigate the problem when features are dependent on each other (non-IID).
 
 ## Side Projects
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
