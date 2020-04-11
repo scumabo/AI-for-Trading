@@ -63,6 +63,8 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
 * [Overlapping Labels](Quiz/m7/dependent_labels_solution.ipynb): Mitigate the problem when features are dependent on each other (non-IID).
 
+* [Feature Importance](): Company would prefer simple interpretable models to black-box complex models. interpretability opens the door for complex models to be readily acceptable. One way to interpret a model is to measure how much each feature contributed to the model prediction called feature importance. Learn how [sklearn computes features importance](Quiz/m7/m7l6/sklearn_feature_importance.ipynb) for tree-based method. Learn how to [calculate shap](Quiz/m7/m7l6/calculate_shap.ipynb) for feature importance of a single sample.
+
 ## Side Projects
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
 ### [Dataframe indexing and selection](Side-projects/Dataframe-indexing-selecting.ipynb)
