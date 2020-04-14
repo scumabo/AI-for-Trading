@@ -24,7 +24,7 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
 * Basic NLP Analysis: Learn quantitatively measure readability of documents using [readability indices](Quiz/m5_financial_statements/Readability_Exercises.ipynb), [how to convert document into vectors using bag of word and TF-IDF weighting, and metrics to compare similarities between documents](Quiz/m5_financial_statements/Bag_of_Word_Exercises.ipynb).
 
-### 6. Sentiment Anlysis with Neural Networks. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
+### 6. Sentiment Analysis with Neural Networks. [Project](Projects/6-Sentiment-Analysis/project_6_starter.ipynb)
 
 * [Neural Network Basics](Notes/6-Sentiment-analysis-with-neutral-networks/README.md): Learn maximum likelihood, cross entropy, logistic regression, gradient decent, regularization, and practical heuristics for training neural networks.
 
@@ -51,7 +51,7 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
     2. Learn Word2Vec algorithm using the [Skip-gram Architecture](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/word2vec-embeddings/Skip_Grams_Exercise.ipynb) and with [Negative Sampling](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/word2vec-embeddings/Negative_Sampling_Exercise.ipynb).
     3. [Sentiment Analysis RNN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn): Implement a recurrent neural network that can predict if the text of a movie review is positive or negative.
 
-### 7. Combining Signals for Enhanced Alpha. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
+### 7. Combining Signals for Enhanced Alpha. [Project](Projects/7-Combining-alphas/project_7_starter.ipynb)
 
 * [Decision Tree](Notes/7-Combining-signals-for-enhanced-alpha/README.md): Learn how to branching decision tree using entropy and information gain. Implement decision tree using sklearn for [Titanic Survival Exploration](Quiz/m7/titanic_survival_exploration.ipynb) and [visualize the decision tree](Quiz/m7/VisualizeTree.pdf) using graphviz.
 
@@ -64,6 +64,10 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 * [Overlapping Labels](Quiz/m7/dependent_labels_solution.ipynb): Mitigate the problem when features are dependent on each other (non-IID).
 
 * [Feature Importance](): Company would prefer simple interpretable models to black-box complex models. interpretability opens the door for complex models to be readily acceptable. One way to interpret a model is to measure how much each feature contributed to the model prediction called feature importance. Learn how [sklearn computes features importance](Quiz/m7/m7l6/sklearn_feature_importance.ipynb) for tree-based method. Learn how to [calculate shap](Quiz/m7/m7l6/calculate_shap.ipynb) for feature importance of a single sample.
+
+### 8. Backtesting. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
+
+
 
 ## Side Projects
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
