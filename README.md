@@ -67,7 +67,9 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
 ### 8. Backtesting. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
 
+* Basics: [Learn best practices of backtesting](Notes/8-Backtesting/Intro.md) and see what [overfitting can "look like"](Quiz/m8/overfitting_exercise) in practice.
 
+* [Learn how to optimization a portfolio with transaction cost](Notes/8-Backtesting/optimization.md). Learn some [additional ways to design your optimization with efficiency in mind](Quiz/m8/optimization_with_tcosts.ipynb). This is really helpful when backtesting, because having reasonably shorter runtimes allows you to test and iterate on your alphas more quickly.
 
 ## Side Projects
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
