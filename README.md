@@ -65,7 +65,7 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
 * [Feature Importance](): Company would prefer simple interpretable models to black-box complex models. interpretability opens the door for complex models to be readily acceptable. One way to interpret a model is to measure how much each feature contributed to the model prediction called feature importance. Learn how [sklearn computes features importance](Quiz/m7/m7l6/sklearn_feature_importance.ipynb) for tree-based method. Learn how to [calculate shap](Quiz/m7/m7l6/calculate_shap.ipynb) for feature importance of a single sample.
 
-### 8. Backtesting. [Project](Projects/5-Intro-NLP/project_5_starter.ipynb)
+### 8. Backtesting. [Project](Projects/8-Backtesting/project_8_starter.ipynb)
 
 * Basics: [Learn best practices of backtesting](Notes/8-Backtesting/Intro.md) and see what [overfitting can "look like"](Quiz/m8/overfitting_exercise) in practice.
 
