@@ -6,9 +6,9 @@ This repo contains my work to Udacity nanodegree [AI for Trading](https://www.ud
 
 ### 1. Trading with Momentum. [Project](Projects/1-Trading-with-momentum/project_1_starter.ipynb)
 
+* Learn basics of [stock markets](Notes/1-Trading-with-momentum/stock-market-data.md). Learn how to calculate [stock returns and design momentum trading strategy](Notes/1-Trading-with-momentum/returns-momentum.md).
 
-
-#### Quiz: Quant basics: [Stock Prices](Quiz/m1_quant_basics/l2_stock_prices/stock_data.ipynb), [Resample Data](Quiz/m1_quant_basics/l3_market_mechanics/resample_data.ipynb), [Calculate Raw Returns](Quiz/m1_quant_basics/l5_stock_returns/calculate_returns.ipynb), [dtype and astype](Quiz/m1_quant_basics/l6_momentum_trading/dtype.ipynb), [top and bottom performer](Quiz/m1_quant_basics/l6_momentum_trading/top_and_bottom_performing.ipynb)
+* Quiz: [Stock Prices](Quiz/m1_quant_basics/l2_stock_prices/stock_data.ipynb), [Resample Data](Quiz/m1_quant_basics/l3_market_mechanics/resample_data.ipynb), [Calculate Raw Returns](Quiz/m1_quant_basics/l5_stock_returns/calculate_returns.ipynb), [dtype and astype](Quiz/m1_quant_basics/l6_momentum_trading/dtype.ipynb), [top and bottom performer](Quiz/m1_quant_basics/l6_momentum_trading/top_and_bottom_performing.ipynb)
 
 
 ### 2. Breakout Strategy. [Project](Projects/2-Breakout-strategy/project_2_starter.pdf)
