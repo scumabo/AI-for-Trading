@@ -12,6 +12,17 @@ This repo contains my work to Udacity nanodegree [AI for Trading](https://www.ud
 
 
 ### 2. Breakout Strategy. [Project](Projects/2-Breakout-strategy/project_2_starter.pdf)
+
+* Learn about the overall [quant workflow](Notes/2-Breakout-strategy/quant-workflow.md), including alpha signal generation, alpha combination, portfolio optimization, and trading.
+
+* Learn the [importance of outliers](Notes/2-Breakout-strategy/outliers.md) and how to detect them. Learn about methods designed to handle outliers.
+
+* Learn about [regression](Notes/2-Breakout-strategy/regression.md), and related statistical tools that pre-process data before regression analysis. See how regression relates to trading and other more advanced methods.
+
+* Learn about stock [volatility](Notes/2-Breakout-strategy/volatility.md), and how the GARCH model analysis volatility. See how volatility is used in equity trading.
+
+* Learn about [pair trading](Notes/2-Breakout-strategy/pair.md), and study the tools used in identifying stock pairs and making trading decision.
+
 #### Quiz: advanced quant: [test normality](Quiz/m2_advanced_quants/l3_regression/test_normality.ipynb), [rolling windows](Quiz/m2_advanced_quants/l5_volatility/rolling_windows.ipynb), [pairs candidates](Quiz/m2_advanced_quants/l6_pairs_trading_and_mean_reversion/pairs_candidates.ipynb)
 
 ### 3. Smart beta and portfolio optimization. [Project](Projects/3-Smart-Beta/project_3_starter.pdf)
