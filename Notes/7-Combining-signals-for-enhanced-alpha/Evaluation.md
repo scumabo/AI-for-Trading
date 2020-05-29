@@ -21,6 +21,8 @@ When accuracy doesn't work?
 ![](images/2020-03-30-14-25-36.png)
 ![](images/2020-03-30-14-27-33.png)
 ![](images/2020-03-30-14-28-11.png)
+![](images/2020-05-29-12-21-16.png)
+
 
 ## Types of Errors
 
