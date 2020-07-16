@@ -28,8 +28,6 @@
 * **Equity Security**: A security that represents fractional ownership in an entity, such as stock. (**Equity**: The value of an owned asset minus the amount of all debts on that asset.
 )
 
-TODO: Revisit Option and Future from CFA.
-
 **Option Contract**: A contract which gives the buyer the right, but not the obligation, to buy or sell an underlying asset at a specified price on or by a specified date.
 
 **Futures Contract**: A contract that obligates the buyer to buy or the seller to sell an asset at a predetermined price at a specified time in the future.
@@ -38,6 +36,11 @@ TODO: Revisit Option and Future from CFA.
 
 ## Buy Side and Sell Side
 We’ve just seen that there are buyers and sellers who go through the stock exchange to buy a stock that they think will do well, or sell a stock that they wish to remove from their investments. We’ve also introduced the market maker, who serves as the counterparty of these buyers or sellers. Since every buyer needs a seller, and every seller needs a buyer, a market maker plays the role of seller to those who wish to buy, and plays the role of buyer for those who wish to sell. By convention, we refer to these market makers as the “sell side” of the finance industry. The sell side includes investment banks such as Goldman Sachs and Morgan Stanley. The buy side refers to individual investors, and investment funds such as mutual funds and hedge funds. We focus on the perspective of the “buy side”. However, it’s good to learn about the “sell side”, because these are the people that the “buy side” usually does business when they enter the market to buy or sell stocks.
+
+Market makers could make profits from commission fees and bid-ask spread.
+
+Importantly, market makers provide liquidity.
+
 ![](2020-04-21-23-07-52.png)
 
 # Market Data Processing
