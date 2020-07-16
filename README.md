@@ -17,7 +17,7 @@ This repo contains my work to Udacity nanodegree [AI for Trading](https://www.ud
 
 * Learn the [importance of outliers](Notes/2-Breakout-strategy/outliers.md) and how to detect them. Learn about methods designed to handle outliers.
 
-* Learn about [regression](Notes/2-Breakout-strategy/regression.md), and related statistical tools that pre-process data before regression analysis. See how regression relates to trading and other more advanced methods.
+* Learn about [regression](Notes/2-Breakout-strategy/regression.md), and related statistical tools that pre-process data before regression analysis. Learn commonly-used [time series](Notes/2-Breakout-strategy/time_series.md) models.
 
 * Learn about stock [volatility](Notes/2-Breakout-strategy/volatility.md), and how the GARCH model analysis volatility. See how volatility is used in equity trading.
 
@@ -88,7 +88,7 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
 * [Learn how to optimization a portfolio with transaction cost](Notes/8-Backtesting/optimization.md). Learn some [additional ways to design your optimization with efficiency in mind](Quiz/m8/optimization_with_tcosts.ipynb). This is really helpful when backtesting, because having reasonably shorter runtimes allows you to test and iterate on your alphas more quickly.
 
-## Side Projects
+## Additions
 ### [1D Kalman filter](Side-projects/1D-Kalman-filter.ipynb)
 ### [Dataframe indexing and selection](Side-projects/Dataframe-indexing-selecting.ipynb)
 ### [Hypothesis testing](Side-projects/Hypthesis-testing.ipynb)
