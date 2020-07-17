@@ -49,8 +49,8 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
 * [Neural Network Basics](Notes/6-Sentiment-analysis-with-neutral-networks/README.md): Learn maximum likelihood, cross entropy, logistic regression, gradient decent, regularization, and practical heuristics for training neural networks.
 
-* Deep Learning with PyTorch:
-
+* [Deep Learning with PyTorch](https://github.com/scumabo/deep-learning-v2-pytorch/tree/master/intro-to-pytorch).
+<!-- 
     1. [Tensors in Pytorch](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%201%20-%20Tensors%20in%20PyTorch%20(Exercises).ipynb)
 
     2. [Neutral Networks in Pytorch](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%202%20-%20Neural%20Networks%20in%20PyTorch%20(Exercises).ipynb)
@@ -65,7 +65,7 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 
     7. [Load Image Data](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%207%20-%20Loading%20Image%20Data%20(Exercises).ipynb)
 
-    8. [Transfer Learning](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%208%20-%20Transfer%20Learning%20(Exercises).ipynb)
+    8. [Transfer Learning](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%208%20-%20Transfer%20Learning%20(Exercises).ipynb) -->
 
 * Recurrence Neutral Networks: 
     1. Learn to use RNN to predict simple [Time Series](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb) and train [Character-Level LSTM](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/char-rnn/Character_Level_RNN_Exercise.ipynb) to generate new text based on the text from the book. 
