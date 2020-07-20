@@ -35,7 +35,10 @@ This repo contains my work to Udacity nanodegree [AI for Trading](https://www.ud
 
 ### 4. Alpha Research and Factor Modeling. [Project](Projects/4-Multi-factor-Model/project_4_starter.pdf)
 
-* Learn factors and how to convert factor values into portfolio weights in a dollar neutral portfolio with leverage ratio equals to 1 (i.e., standardize factor values).
+* Learn [factors](Notes/4-Alpha-Research-and-Factor-Modeling/Factors.md) and how to convert factor values into portfolio weights in a dollar neutral portfolio with leverage ratio equals to 1 (i.e., standardize factor values).
+* Learn [fundamentals of factor models and type of factors](Notes/4-Alpha-Research-and-Factor-Modeling/Factor-Model.md). Learn how to compute [portfolio variance using risk factor models](Notes/4-Alpha-Research-and-Factor-Modeling/Risk-Factor-Model.md). Learn [time series and cross-sectional risk models](Notes/4-Alpha-Research-and-Factor-Modeling/Cross-Sectional.md).
+* Learn how to use [PCA](Notes/4-Alpha-Research-and-Factor-Modeling/PCA.md) to build risk factor models. 
+
 
 #### Quiz: [zipline pipline](Quiz/m4_multifactor_models/Zipline-Pipeline/Zipline-Pipeline.pdf), [zipline execise](Quiz/m4_multifactor_models/m4l1/zipline_coding_exercises.pdf), [historical_variance](Quiz/m4_multifactor_models/m4l2/historical_variance.pdf), [factor_model_asset_return](Quiz/m4_multifactor_models/m4l2/factor_model_asset_return.pdf),[factor_model_portfolio_return](Quiz/m4_multifactor_models/m4l2/factor_model_portfolio_return.pdf), [covariance_matrix_assets](Quiz/m4_multifactor_models/m4l2/covariance_matrix_assets.pdf), [portfolio_variance](Quiz/m4_multifactor_models/m4l2/portfolio_variance.pdf), [pca_factor_model](Quiz/m4_multifactor_models/m4l2/pca_factor_model.pdf), 
 
